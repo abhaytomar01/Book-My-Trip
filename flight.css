@@ -1,0 +1,18 @@
+.main{
+    
+    margin: 20px;
+    
+}
+.flight_details{
+    background-color: grey;
+    gap:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.from{
+    background-color: aqua;
+}
+.too{
+    background-color: aqua;
+}
